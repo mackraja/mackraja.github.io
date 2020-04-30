@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Monty Khanna
 ---
 
 # Consultant - Software Engineer
