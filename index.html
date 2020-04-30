@@ -1,0 +1,29 @@
+---
+title: Monty Khanna
+layout: default
+---
+
+<div class="post-listing">
+	{% for post in site.works reversed  %}
+	{% for cat in post.categories %}
+	{% if cat != "Draft" %}
+	<div class="post">
+
+		{% if post.image.feature %}
+		<a class="post-title" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+			<div class="post-feature-image-thumb">
+				<img class="resize_fit_center" src = 
+				{% if post.image.feature contains 'http' %}
+				"{{ post.image.feature }}"
+				{% else %}
+				"{{ site.url }}/img/{{ post.image.feature }}"
+				{% endif %} 
+				alt="{{ post.title }} feature image">
+			</div>
+		</a>
+		{% endif %}
+	</div>
+	{% endif %}
+	{% endfor %}
+	{% endfor %}
+</div>
