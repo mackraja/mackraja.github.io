@@ -18,13 +18,13 @@ title: Monty Khanna
 **D.A.V College, Ambala, Haryana, India** <span style="float: right">2009</span>
 
 - B.Com vocational (Bachelor of Commerce and Computer Application)
-- Aggregate: 67.18%
+- Aggregate: 66%
 
 <br>
 
 #### WORK EXPERIENCES
 
-<span style="float: right">December 2019 ~ Present</span>
+<span style="float: right">12/2019 – Present</span>
 **Technossus**  
 Consultant - Software Engineer / Full Stack Developer
 
@@ -33,7 +33,7 @@ Consultant - Software Engineer / Full Stack Developer
 - Mainly built with NodeJS, Firebase and Jenkins
 - Optimization of code, Review code
 
-<span style="float: right">June 2017 – December 2019</span>
+<span style="float: right">6/2017 – 12/2019</span>
 **SimSaw Software Pvt. Ltd**  
 Sr. Software Engineer
 
@@ -42,7 +42,7 @@ Sr. Software Engineer
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
 - Used templates like Semantic UI, Material UI, ReactStrap
 
-<span style="float: right">May 2016 – June 2017</span>
+<span style="float: right">5/2016 – 6/2017</span>
 **Escalon Services**  
 Software Engineer
 
@@ -51,7 +51,7 @@ Software Engineer
 - Database management, Optimization of database, AWS
 - Writing scripts, Rest API’s, SAML, Certain Safe, Power BI
 
-<span style="float: right">July 2013 – May 2016</span>
+<span style="float: right">7/2013 – 5/2016</span>
 **Affilired Inc.**  
 Software Engineer
 
@@ -66,8 +66,8 @@ Software Engineer
 
 - Proficient In:
 
-  * Node Js, Electron Js 
-  * React Js, Redux, Javascript (ES6~), Typescript
+  * Node , Electron Js 
+  * React Js (Classes, Hooks), Redux, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
   * Semantic UI, Material UI
 
@@ -76,7 +76,7 @@ Software Engineer
   * Linux (CentOS / Ubuntu)
   * Universal Windows App
   * HTML5 / Modern Web 
-  * NodeJS
+  * Node Js
   * React, Vue, Angular
   
 - Database Management System

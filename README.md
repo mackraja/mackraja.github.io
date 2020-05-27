@@ -1,2 +1,3 @@
-# mackraja.github.io
-Resume - Monty Khanna
+### Monty Khanna | CV | Resume
+
+[click me](https://mackraja.github.io/)
