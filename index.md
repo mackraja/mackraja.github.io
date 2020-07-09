@@ -42,23 +42,14 @@ Sr. Software Engineer
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
 - Used templates like Semantic UI, Material UI, ReactStrap
 
-<span style="float: right">5/2016 – 6/2017</span>
-**Escalon Services**  
-Software Engineer
-
-- Create new Modules/Task
-- Optimization of code, Documentation, Test Cases of Task
-- Database management, Optimization of database, AWS
-- Writing scripts, Rest API’s, SAML, Certain Safe, Power BI
-
-<span style="float: right">7/2013 – 5/2016</span>
+<span style="float: right">7/2013 – 6/2017</span>
 **Affilired Inc.**  
 Software Engineer
 
 - Optimization of code, Test Cases of Task, using Agile Methodology
-- Database management, Optimization of database
+- Database management, Optimization of database, AWS
 - Wrote scripts to fetch data from database using get/post method
-- Used NodeJS as Rest API for my company product
+- Used NodeJS as Rest API for my company product, SAML, Certain Safe, Power BI
 
 <br>
 
