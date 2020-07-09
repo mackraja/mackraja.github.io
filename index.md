@@ -7,21 +7,6 @@ title: Monty Khanna
 
 <br>
 
-#### EDUCATION
-
-**A.I.M.T College, Ambala, Haryana, India** <span style="float: right">2012</span>
-
-- MCA (Master of Computer Application)
-- Aggregate: 67.18%
-
-
-**D.A.V College, Ambala, Haryana, India** <span style="float: right">2009</span>
-
-- B.Com vocational (Bachelor of Commerce and Computer Application)
-- Aggregate: 66%
-
-<br>
-
 #### WORK EXPERIENCES
 
 <span style="float: right">12/2019 – Present</span>
@@ -34,7 +19,7 @@ Consultant - Software Engineer / Full Stack Developer
 - Optimization of code, Review code
 
 <span style="float: right">6/2017 – 12/2019</span>
-**SimSaw Software Pvt. Ltd**  
+**SimSaw**  
 Sr. Software Engineer
 
 - Optimization of code, Documentation, Test Cases of Task
@@ -42,14 +27,38 @@ Sr. Software Engineer
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
 - Used templates like Semantic UI, Material UI, ReactStrap
 
-<span style="float: right">7/2013 – 6/2017</span>
-**Affilired Inc.**  
+<span style="float: right">9/2014 – 6/2017</span>
+**Affilired**  
 Software Engineer
 
 - Optimization of code, Test Cases of Task, using Agile Methodology
 - Database management, Optimization of database, AWS
 - Wrote scripts to fetch data from database using get/post method
 - Used NodeJS as Rest API for my company product, SAML, Certain Safe, Power BI
+
+<span style="float: right">7/2013 – 9/2014</span>
+**Trigma**  
+Junior Software Engineer
+
+- Designing Database Flow charts for new project.
+- Database management, Creating new project from the scratch to end user
+- Client side related issues (Jquery, Browser compatibility), scraping
+- API's on different Platforms like Android, Windows, Iphone
+
+<br>
+
+#### EDUCATION
+
+**A.I.M.T College, Ambala, Haryana, India** <span style="float: right">2012</span>
+
+- MCA (Master of Computer Application)
+- Aggregate: 67.18%
+
+
+**D.A.V College, Ambala, Haryana, India** <span style="float: right">2009</span>
+
+- B.Com vocational (Bachelor of Commerce and Computer Application)
+- Aggregate: 66%
 
 <br>
 
