@@ -14,9 +14,10 @@ title: Monty Khanna
 Consultant - Software Engineer / Full Stack Developer
 
 - Build labelling multi platform app for AI Models
-- Used Electron Js, React Js, Redux, Hapi Js, Swagger, Sequelize Js
+- Used Electron Js, Angular Js, React Js (Classes, Hooks), Redux, Hapi Js, Swagger, Sequelize Js
 - Mainly built with NodeJS, Firebase and Jenkins
 - Optimization of code, Review code
+- Writing Unit test in Jasmine, For mutation testing using Stryker
 
 <span style="float: right">6/2017 – 12/2019</span>
 **SimSaw**  
@@ -81,7 +82,7 @@ Junior Software Engineer
   
 - Database Management System
 
-  * MySQL (MariaDB), SQLite3, PostgreSQL
+  * MySQL, SQLite3, PostgreSQL
   * MongoDB, DynamoDB
   * Redis 
 
@@ -107,5 +108,5 @@ Junior Software Engineer
 - Utilities
 
   * Slack
-  * Mailchimp
   * Atlassian Jira, Confluence
+  * Azure Devops
