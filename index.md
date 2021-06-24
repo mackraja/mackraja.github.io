@@ -65,14 +65,14 @@ Junior Software Engineer
 
 #### SKILLS AND EXPERIENCES
 
-- Proficient In:
+- **Proficient In:**
 
   * Node , Electron Js 
   * React Js (Classes, Hooks), Redux, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
   * Semantic UI, Material UI
 
-- Platform &amp; Framework Experience:
+- **Platform &amp; Framework Experience:**
 
   * Linux (CentOS / Ubuntu)
   * Universal Windows App
@@ -80,32 +80,32 @@ Junior Software Engineer
   * Node Js
   * React, Vue, Angular
   
-- Database Management System
+- **Database Management System**
 
   * MySQL, SQLite3, PostgreSQL
   * MongoDB, DynamoDB
   * Redis 
 
-- Process / Container management
+- **Process / Container management**
 
   * npm/yarn, nodemon, pm2, ts-node-dev
   * Sequelize, eslint, migrations
   * Lab, Code
   
-- Cloud Service Experience
+- **Cloud Service Experience**
 
   * Amazon Web Service
   * Google Cloud Platform (+ Firebase)
   * Heroku
 
-- DevOps
+- **DevOps**
 
   * GitHub
   * Jenkins
   * AWS CloudWatch 
   * Serverless framework
   
-- Utilities
+- **Utilities**
 
   * Slack
   * Atlassian Jira, Confluence
