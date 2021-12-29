@@ -10,8 +10,8 @@ title: Monty Khanna
 #### WORK EXPERIENCES
 
 <span style="float: right">12/2019 – Present</span>
-**Technossus**  
-Consultant - Software Engineer / Full Stack Developer
+**Technossus Software Services Pvt Ltd**  
+Consultant - Software Engineer / Full Stack Javascript Developer
 
 - Build labelling multi platform app for AI Models
 - Used Electron Js, Angular Js, React Js (Classes, Hooks), Redux, Hapi Js, Swagger, Sequelize Js
@@ -20,7 +20,7 @@ Consultant - Software Engineer / Full Stack Developer
 - Writing Unit test in Jasmine, For mutation testing using Stryker
 
 <span style="float: right">6/2017 – 12/2019</span>
-**SimSaw**  
+**SimSaw Software Pvt Ltd**  
 Sr. Software Engineer
 
 - Optimization of code, Documentation, Test Cases of Task
@@ -28,23 +28,14 @@ Sr. Software Engineer
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
 - Used templates like Semantic UI, Material UI, ReactStrap
 
-<span style="float: right">9/2014 – 6/2017</span>
-**Affilired**  
-Software Engineer
+<span style="float: right">5/2016 – 6/2017</span>
+**Escalon Services Pvt Ltd**  
+Sr. Software Engineer
 
-- Optimization of code, Test Cases of Task, using Agile Methodology
-- Database management, Optimization of database, AWS
-- Wrote scripts to fetch data from database using get/post method
+- Optimization of code, using Agile Methodology
+- Database management, Optimization of database, AWS Services
+- Wrote scripts to fetch data from database using http method
 - Used NodeJS as Rest API for my company product, SAML, Certain Safe, Power BI
-
-<span style="float: right">7/2013 – 9/2014</span>
-**Trigma**  
-Junior Software Engineer
-
-- Designing Database Flow charts for new project.
-- Database management, Creating new project from the scratch to end user
-- Client side related issues (Jquery, Browser compatibility), scraping
-- API's on different Platforms like Android, Windows, Iphone
 
 <br>
 
@@ -55,19 +46,13 @@ Junior Software Engineer
 - MCA (Master of Computer Application)
 - Aggregate: 67.18%
 
-
-**D.A.V College, Ambala, Haryana, India** <span style="float: right">2009</span>
-
-- B.Com vocational (Bachelor of Commerce and Computer Application)
-- Aggregate: 66%
-
 <br>
 
 #### SKILLS AND EXPERIENCES
 
 - **Proficient In:**
 
-  * Node , Electron Js 
+  * Node Js, Electron Js 
   * React Js (Classes, Hooks), Redux, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
   * Semantic UI, Material UI
@@ -102,8 +87,7 @@ Junior Software Engineer
 
   * GitHub
   * Jenkins
-  * AWS CloudWatch 
-  * Serverless framework
+  * AWS Services
   
 - **Utilities**
 
