@@ -8,6 +8,7 @@ title: Monty Khanna
 I love to take challenges that come on my way. I want company growth as well as personal growth.
 
 ### _LATEST EXPERIENCE_
+---
 
 <span style="float: right">2/2022 – Present</span>
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
@@ -39,6 +40,7 @@ Sr. Software Engineer
 - Used templates like Semantic UI, Material UI, ReactStrap
 
 ### _EDUCATION_
+---
 
 **A.I.M.T College, Ambala, Haryana, India** <span style="float: right">2012</span>
 
@@ -46,6 +48,7 @@ Sr. Software Engineer
 - Aggregate: 67.18%
 
 ### _SKILLS AND EXPERIENCE_
+---
 
 - **Proficient In:**
 
@@ -93,6 +96,7 @@ Sr. Software Engineer
   * Azure Devops
 
 ### _TECH STACK TABLE_
+---
 
 | Tech Stack | Rating | Count |
 | ------ | ------ | ------ |
