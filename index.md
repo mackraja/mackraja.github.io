@@ -3,14 +3,24 @@ layout: default
 title: Monty Khanna
 ---
 
-# Consultant - Software Engineer
+# Full Stack JavaScript Developer
 
-<br>
+I love to take challenges that come on my way. I want company growth as well as personal growth.
 
-#### WORK EXPERIENCES
+### _LATEST EXPERIENCE_
 
-<span style="float: right">12/2019 – Present</span>
-**Technossus Software Services Pvt Ltd**  
+<span style="float: right">2/2022 – Present</span>
+**[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
+Sr. System Analyst
+
+- Create Boilerplate / Architecture for new projects 
+- Used React Js (Classes, Hooks), Redux, Saga, Axios
+and alot of npm packages as per requirements 
+- Optimization of code, Review code, Code Refactoring
+- Writing Unit test in Jest using React Js Library
+
+<span style="float: right">12/2019 – 2/2022</span>
+**[Technossus](https://www.technossus.com/) Software Services Pvt Ltd**  
 Consultant - Software Engineer / Full Stack Javascript Developer
 
 - Build labelling multi platform app for AI Models
@@ -20,7 +30,7 @@ Consultant - Software Engineer / Full Stack Javascript Developer
 - Writing Unit test in Jasmine, For mutation testing using Stryker
 
 <span style="float: right">6/2017 – 12/2019</span>
-**SimSaw Software Pvt Ltd**  
+**[SimSaw](https://www.simsaw.com/) Software Pvt Ltd**  
 Sr. Software Engineer
 
 - Optimization of code, Documentation, Test Cases of Task
@@ -28,34 +38,21 @@ Sr. Software Engineer
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
 - Used templates like Semantic UI, Material UI, ReactStrap
 
-<span style="float: right">5/2016 – 6/2017</span>
-**Escalon Services Pvt Ltd**  
-Sr. Software Engineer
-
-- Optimization of code, using Agile Methodology
-- Database management, Optimization of database, AWS Services
-- Wrote scripts to fetch data from database using http method
-- Used NodeJS as Rest API for my company product, SAML, Certain Safe, Power BI
-
-<br>
-
-#### EDUCATION
+### _EDUCATION_
 
 **A.I.M.T College, Ambala, Haryana, India** <span style="float: right">2012</span>
 
 - MCA (Master of Computer Application)
 - Aggregate: 67.18%
 
-<br>
-
-#### SKILLS AND EXPERIENCES
+### _SKILLS AND EXPERIENCE_
 
 - **Proficient In:**
 
   * Node Js, Electron Js 
-  * React Js (Classes, Hooks), Redux, Javascript (ES6~), Typescript
+  * React Js (Classes, Hooks), Redux, Angular, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
-  * Semantic UI, Material UI
+  * Semantic UI, Material UI, Styled Components
 
 - **Platform &amp; Framework Experience:**
 
@@ -94,3 +91,20 @@ Sr. Software Engineer
   * Slack
   * Atlassian Jira, Confluence
   * Azure Devops
+
+### _TECH STACK TABLE_
+
+| Tech Stack | Rating | Count |
+| ------ | ------ | ------ |
+| Javascript | `* * * * ` * | **4/5** |
+| React.Js, Redux, Saga | `* * * * *` | **5/5** |
+| Angular | `* * * * ` * | **4/5** |
+| Typescript | `* * * * *` | **5/5** |
+| Node.Js, Swagger API | `* * * * ` * | **4/5** |
+| Express, Hapi.Js | `* * * * ` * | **4/5** |
+| EsLint, ES6 | `* * * * ` * | **4/5** |
+| Unit Testing | `* * * ` * * | **3/5** |
+| Database | `* * * * ` * | **4/5** |
+| Cloud (**AWS**, Azure) | `* * * ` * * | **3/5** |
+| NPM, Yarn, Webpack | `* * * * ` * | **4/5** |
+| Debugging, Refactoring | `* * * * ` * | **4/5** |
