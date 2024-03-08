@@ -14,6 +14,7 @@ I love to take challenges that come on my way. I want company growth as well as 
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
 Sr. System Analyst
 #### Working for Client: DBS Bank | Singapore
+
 - Create Boilerplate / Architecture for new projects 
 - Used React Js (Classes, Hooks), Redux, Saga, Axios
 and alot of npm packages as per requirements 
@@ -23,6 +24,7 @@ and alot of npm packages as per requirements
 <span style="float: right">12/2019 – 2/2022</span>
 **[Technossus](https://www.technossus.com/) Software Services Pvt Ltd**  
 Consultant - Software Engineer / Full Stack Javascript Developer
+
 - Build labelling multi platform app for AI Models
 - Used Electron Js, Angular Js, React Js (Classes, Hooks), Redux, Hapi Js, Swagger, Sequelize Js
 - Mainly built with NodeJS, Firebase and Jenkins
@@ -32,6 +34,7 @@ Consultant - Software Engineer / Full Stack Javascript Developer
 <span style="float: right">6/2017 – 12/2019</span>
 **[SimSaw](https://www.simsaw.com/) Software Pvt Ltd**  
 Sr. Software Engineer
+
 - Optimization of code, Documentation, Test Cases of Task
 - Used React Js, Angular, Redux, Axios, SuperAgent, Hugo, Typescript
 - Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
@@ -39,12 +42,14 @@ Sr. Software Engineer
 
 ### _EDUCATION_
 ---
+
 **MCA - Master of Computer Application** <span style="float: right">2009 - 2012</span>
 - A.I.M.T College, Ambala, Haryana, India
 - Kurukshetra University, Kurukshetra
 
 ### _SKILLS AND EXPERIENCE_
 ---
+
 - **Proficient In:**
   * React Js (Classes, Hooks), Redux, Redux-Saga, Angular, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
@@ -85,6 +90,7 @@ Sr. Software Engineer
 
 ### _TECH STACK TABLE_
 ---
+
 | Tech Stack | Rating | Count |
 | ------ | ------ | ------ |
 | Javascript | `* * * * ` * | **4/5** |
