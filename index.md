@@ -14,6 +14,8 @@ I love to take challenges that come on my way. I want company growth as well as 
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
 Sr. System Analyst
 
+**Working for Client: DBS Bank | Singapore** 
+
 - Create Boilerplate / Architecture for new projects 
 - Used React Js (Classes, Hooks), Redux, Saga, Axios
 and alot of npm packages as per requirements 
@@ -42,52 +44,45 @@ Sr. Software Engineer
 ### _EDUCATION_
 ---
 
-**A.I.M.T College, Ambala, Haryana, India** <span style="float: right">2012</span>
-
-- MCA (Master of Computer Application)
-- Aggregate: 67.18%
+**MCA - Master of Computer Application** <span style="float: right">2009 - 2012</span>
+- A.I.M.T College, Ambala, Haryana, India
+- Kurukshetra University, Kurukshetra
 
 ### _SKILLS AND EXPERIENCE_
 ---
 
 - **Proficient In:**
-
-  * Node Js, Electron Js 
-  * React Js (Classes, Hooks), Redux, Angular, Javascript (ES6~), Typescript
+  * React Js (Classes, Hooks), Redux, Redux-Saga, Angular, Javascript (ES6~), Typescript
   * Hapi Js, Swagger, Sequelize Js
+  * Node Js, Electron Js 
   * Semantic UI, Material UI, Styled Components
 
-- **Platform &amp; Framework Experience:**
-
-  * Linux (CentOS / Ubuntu)
-  * Universal Windows App
-  * HTML5 / Modern Web 
-  * Node Js
-  * React, Vue, Angular
-  
 - **Database Management System**
-
   * MySQL, SQLite3, PostgreSQL
   * MongoDB, DynamoDB
   * Redis 
 
 - **Process / Container management**
-
   * npm/yarn, nodemon, pm2, ts-node-dev
   * Sequelize, eslint, migrations
   * Lab, Code
   
 - **Cloud Service Experience**
-
   * Amazon Web Service
   * Google Cloud Platform (+ Firebase)
   * Heroku
 
 - **DevOps**
-
   * GitHub
   * Jenkins
   * AWS Services
+  
+- **Platform &amp; Framework Experience:**
+  * Linux (CentOS / Ubuntu)
+  * Universal Windows App
+  * HTML5 / Modern Web 
+  * Node Js
+  * React, Vue, Angular
   
 - **Utilities**
 
