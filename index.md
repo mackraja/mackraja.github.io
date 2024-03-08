@@ -13,8 +13,7 @@ I love to take challenges that come on my way. I want company growth as well as 
 <span style="float: right">2/2022 – Present</span>
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
 Sr. System Analyst
-
-**Working for Client: DBS Bank | Singapore** 
+#### Working for Client: DBS Bank | Singapore
 
 - Create Boilerplate / Architecture for new projects 
 - Used React Js (Classes, Hooks), Redux, Saga, Axios
