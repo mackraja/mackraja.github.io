@@ -2,7 +2,7 @@
 # Site settings
 title: Monty Khanna
 email: montykhanna007@hotmail.com
-description: "Full Stack JavaScript Developer"
+description: "Fullstack JavaScript Developer (React Js,Node Js)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: #username
@@ -20,10 +20,10 @@ markdown: kramdown
 owner:
   name: Monty Khanna
   avatar: avataaar.png
-  job: "<a href=\"https://www.ibm.com/in-en/\" target=\"_blank\">@IBM</a>"
-  bio: "<b>11 years</b> of experience in software development integration of web based application.
+  job: # "<a href=\"https://www.ibm.com/in-en/\" target=\"_blank\">@IBM</a>"
+  bio: # "<b>11 years</b> of experience in software development integration of web based application.
 
-Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescript, Redux, Saga, Redux-Form, Hapijs, Swagger, Sequelizejs, ReactStrap, semantic-ui, Material-ui, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb"
+# Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescript, Redux, Saga, Redux-Form, Hapijs, Swagger, Sequelizejs, ReactStrap, semantic-ui, Material-ui, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb"
   email: montykhanna007@hotmail.com
   disqus-shortname: #username
   twitter: #username

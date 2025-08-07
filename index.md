@@ -3,7 +3,8 @@ layout: default
 title: Monty Khanna
 ---
 
-# Full Stack JavaScript Developer
+# Fullstack JavaScript Developer (React Js,Node Js)
+**12+ years** of experience in software development integration of web based application. Excellent knowledge and experience of **Nodejs, Reactjs** (Classes, **Hooks**), **Typescript, Redux**, Saga, Redux-Form, **Hapijs, Swagger, Sequelizejs**, ReactStrap, **semantic-ui, Material-ui**, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb
 
 I love to take challenges that come on my way. I want company growth as well as personal growth.
 
@@ -13,7 +14,15 @@ I love to take challenges that come on my way. I want company growth as well as 
 <span style="float: right">2/2022 – Present</span>
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
 Sr. System Analyst
-#### Working for Client: DBS Bank | Singapore
+
+#### Working for Client: Virgin Money
+
+- Worked on Datasources like Jira, ADO, Github, to collect data and store in Azure DataLake 
+- Used Node Js to create Rest API's and alot of npm packages as per requirements 
+- Optimization of code, Review code, Code Refactoring
+- Writing Unit test in Jest for Rest API's
+
+#### Worked for Client: DBS Bank | Singapore
 
 - Create Boilerplate / Architecture for new projects 
 - Used React Js (Classes, Hooks), Redux, Saga, Axios
