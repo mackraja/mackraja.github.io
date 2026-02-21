@@ -2,115 +2,158 @@
 layout: default
 title: Monty Khanna
 ---
+# Lead / Principal Full Stack Architect
+**13+ years** of experience architecting and delivering scalable, high-performance, cloud-native applications across fintech, enterprise platforms, and AI-enabled systems.
 
-# Fullstack JavaScript Developer (React Js,Node Js)
-**12+ years** of experience in software development integration of web based application. Excellent knowledge and experience of **Nodejs, Reactjs** (Classes, **Hooks**), **Typescript, Redux**, Saga, Redux-Form, **Hapijs, Swagger, Sequelizejs**, ReactStrap, **semantic-ui, Material-ui**, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb
+Specialized in **system architecture, microservices design, distributed systems, React ecosystem, Node.js/NestJS backends, and cloud-native engineering (AWS/Azure/GCP)**.
 
-I love to take challenges that come on my way. I want company growth as well as personal growth.
+Strong product mindset with ownership of architecture decisions, engineering standards, performance optimization, and long-term scalability. Experienced in mentoring teams, defining technical strategy, and aligning engineering solutions with business goals.
 
-### _LATEST EXPERIENCE_
+---
+
+## Core Competencies
+
+- Scalable System Architecture & Platform Design  
+- Microservices & API-First Architecture  
+- Distributed Systems & Cloud-Native Engineering  
+- AI/LLM-Ready Data Pipelines & Integration  
+- Frontend Architecture (React, State Management Patterns)  
+- DevOps, CI/CD & Engineering Governance  
+- Performance Engineering & Reliability  
+- Cross-Functional Technical Leadership  
+
+---
+
+### _Latest Professional Experience_ (Across the Last Three Organizations)
 ---
 
 <span style="float: right">2/2022 – Present</span>
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
-Sr. System Analyst
+**Lead System Architect / Senior System Analyst**
 
-#### Working for Client: Virgin Money
+### Toyota (Enterprise Data Platform)
 
-- Worked on Datasources like Jira, ADO, Github, to collect data and store in Azure DataLake 
-- Used Node Js to create Rest API's and alot of npm packages as per requirements 
-- Optimization of code, Review code, Code Refactoring
-- Writing Unit test in Jest for Rest API's
+- Architected enterprise-grade data ingestion pipelines integrating Jira, Azure DevOps, and GitHub into **Azure Data Lake**
+- Designed scalable, modular microservices using **NestJS** following clean architecture principles
+- Defined API governance standards and dependency optimization strategies
+- Led performance optimization and refactoring initiatives improving reliability and maintainability
+- Established structured testing strategy using **Jest** and CI/CD validation pipelines
 
-#### Worked for Client: DBS Bank | Singapore
+### Virgin Money (FinTech Platform Modernization)
 
-- Create Boilerplate / Architecture for new projects 
-- Used React Js (Classes, Hooks), Redux, Saga, Axios
-and alot of npm packages as per requirements 
-- Optimization of code, Review code, Code Refactoring
-- Writing Unit test in Jest using React Js Library
+- Led backend API architecture using **Node.js** and REST/OpenAPI standards
+- Delivered scalable feature enhancements aligned with long-term product architecture
+- Introduced structured code review and refactoring practices to reduce technical debt
+- Improved deployment quality through enforced testing and CI/CD automation
+- Leveraged AI-assisted development workflows (e.g., Copilot) to improve delivery efficiency
+
+### DBS Bank Singapore (Enterprise UI Architecture)
+
+- Defined scalable frontend architecture using **React.js, TypeScript, Redux, Redux-Saga**
+- Designed reusable component libraries and modular project structures
+- Improved frontend performance through architectural refactoring
+- Implemented comprehensive unit testing strategy using **Jest and React Testing Library**
+- Collaborated with product stakeholders to align architecture with business scalability goals
+
+---
 
 <span style="float: right">12/2019 – 2/2022</span>
 **[Technossus](https://www.technossus.com/) Software Services Pvt Ltd**  
-Consultant - Software Engineer / Full Stack Javascript Developer
+**Lead Consultant – Full Stack Architect**
 
-- Build labelling multi platform app for AI Models
-- Used Electron Js, Angular Js, React Js (Classes, Hooks), Redux, Hapi Js, Swagger, Sequelize Js
-- Mainly built with NodeJS, Firebase and Jenkins
-- Optimization of code, Review code
-- Writing Unit test in Jasmine, For mutation testing using Stryker
+- Architected a cross-platform AI data labeling platform supporting ML model training workflows
+- Designed Electron-based desktop architecture integrated with scalable Node.js backend services
+- Built backend systems using **Node.js, Hapi.js, Sequelize ORM, Swagger/OpenAPI**
+- Integrated **Firebase** for real-time architecture
+- Established CI/CD pipelines using **Jenkins**
+- Introduced mutation testing (Stryker) and quality gates to enforce engineering standards
+- Mentored engineers and led architectural decision-making across teams
+
+---
 
 <span style="float: right">6/2017 – 12/2019</span>
 **[SimSaw](https://www.simsaw.com/) Software Pvt Ltd**  
-Sr. Software Engineer
+**Senior Software Engineer → Technical Lead**
 
-- Optimization of code, Documentation, Test Cases of Task
-- Used React Js, Angular, Redux, Axios, SuperAgent, Hugo, Typescript
-- Used Hapi Js, Swagger, Sequelize Js, Mysql, Mssql
-- Used templates like Semantic UI, Material UI, ReactStrap
+- Designed scalable RESTful services using **Hapi.js and Sequelize ORM**
+- Developed modular frontend systems using **React, Angular, TypeScript**
+- Implemented reusable UI architecture strategies
+- Improved system performance through profiling, query optimization, and refactoring
+- Maintained architectural documentation and coding standards
 
-### _EDUCATION_
 ---
 
-**MCA - Master of Computer Application** <span style="float: right">2009 - 2012</span>
-- A.I.M.T College, Ambala, Haryana, India
-- Kurukshetra University, Kurukshetra
+## AI / GenAI Architecture Readiness
 
-### _SKILLS AND EXPERIENCE_
+- Designed AI-support platforms for model training and annotation workflows
+- Architected data pipelines suitable for ML/LLM processing
+- Experienced in building systems adaptable for:
+  - LLM-powered APIs
+  - Retrieval-Augmented Generation (RAG)
+  - AI copilots in enterprise applications
+  - Embedding pipelines and vector storage integration
+- Strong backend foundation for scalable GenAI systems
+
 ---
 
-- **Proficient In:**
-  * React Js (Classes, Hooks), Redux, Redux-Saga, Angular, Javascript (ES6~), Typescript
-  * Hapi Js, Swagger, Sequelize Js
-  * Node Js, Electron Js 
-  * Semantic UI, Material UI, Styled Components
-
-- **Database Management System**
-  * MySQL, SQLite3, PostgreSQL
-  * MongoDB, DynamoDB
-  * Redis 
-
-- **Process / Container management**
-  * npm/yarn, nodemon, pm2, ts-node-dev
-  * Sequelize, eslint, migrations
-  * Lab, Code
-  
-- **Cloud Service Experience**
-  * Amazon Web Service
-  * Google Cloud Platform (+ Firebase)
-  * Heroku
-
-- **DevOps**
-  * GitHub
-  * Jenkins
-  * AWS Services
-  
-- **Platform &amp; Framework Experience:**
-  * Linux (CentOS / Ubuntu)
-  * Universal Windows App
-  * HTML5 / Modern Web 
-  * Node Js
-  * React, Vue, Angular
-  
-- **Utilities**
-  * Slack
-  * Atlassian Jira, Confluence
-  * Azure Devops
-
-### _TECH STACK TABLE_
+### _Education_
 ---
 
-| Tech Stack | Rating | Count |
-| ------ | ------ | ------ |
-| Javascript | `* * * * ` * | **4/5** |
-| React.Js, Redux, Saga | `* * * * *` | **5/5** |
-| Angular | `* * * * ` * | **4/5** |
-| Typescript | `* * * * *` | **5/5** |
-| Node.Js, Swagger API | `* * * * ` * | **4/5** |
-| Express, Hapi.Js | `* * * * ` * | **4/5** |
-| EsLint, ES6 | `* * * * ` * | **4/5** |
-| Unit Testing | `* * * ` * * | **3/5** |
-| Database | `* * * * ` * | **4/5** |
-| Cloud (**AWS**, Azure) | `* * * ` * * | **3/5** |
-| NPM, Yarn, Webpack | `* * * * ` * | **4/5** |
-| Debugging, Refactoring | `* * * * ` * | **4/5** |
+**MCA - Master of Computer Application** <span style="float: right">2009 - 2012</span>  
+- A.I.M.T College, Ambala, Haryana, India  
+- Kurukshetra University, Kurukshetra  
+
+---
+
+### _Technical Expertise_
+---
+
+#### **Frontend Architecture**
+- Proficient in **React.js** (Hooks, Context API, Performance Optimization)  
+- State management with **Redux** and **Redux-Saga**  
+- Experience with **Angular** and **Vue.js**  
+- Strong command of **TypeScript** and **ES6+ JavaScript**  
+- Skilled in **Component-Driven Development** & **Design Systems**
+
+#### **Backend & Distributed Systems**
+- Development with **Node.js**, **Express**, **Hapi.js**, **NestJS**  
+- Designing **Microservices** and **Modular Monoliths**  
+- Building **RESTful APIs** following **OpenAPI standards**  
+- ORM expertise: **Sequelize**, **TypeORM**, **Knex.js**  
+- Desktop apps with **Electron.js**
+
+#### **Databases & Caching**
+- Relational: **MySQL**, **PostgreSQL**, **MSSQL**  
+- NoSQL: **MongoDB**, **DynamoDB**  
+- **Redis** caching & performance tuning  
+- **Query optimization** and **indexing strategies**
+
+#### **Cloud & DevOps**
+- Cloud platforms: **AWS** (EC2, S3, Lambda, RDS), **Azure DevOps & Data Lake**, **GCP**, **Firebase**  
+- CI/CD with **Jenkins** and **GitHub Actions**  
+- Deployment strategy and pipeline optimization
+
+#### **Engineering Practices**
+- **TDD** & unit testing (**Jest**, **Jasmine**)  
+- Code reviews, refactoring, and enforcing standards  
+- Application **performance profiling & optimization**  
+- Creating **technical documentation** and best practices
+
+---
+
+### _Technology Proficiency_
+---
+
+| Domain | Level |
+| ------ | ------ |
+| JavaScript & TypeScript | ⭐⭐⭐⭐⭐ |
+| React Architecture & State Management | ⭐⭐⭐⭐⭐ |
+| Node.js & Microservices Design | ⭐⭐⭐⭐ |
+| REST API & OpenAPI Standards | ⭐⭐⭐⭐⭐ |
+| Database Design & Optimization | ⭐⭐⭐⭐ |
+| Testing & Quality Engineering | ⭐⭐⭐⭐ |
+| Cloud Architecture | ⭐⭐⭐⭐ |
+| DevOps & CI/CD | ⭐⭐⭐⭐ |
+| System Design & Scalability | ⭐⭐⭐⭐⭐ |
+
+---
