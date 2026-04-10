@@ -83,6 +83,42 @@ Strong product mindset with ownership of architecture decisions, engineering sta
 
 ---
 
+<span style="float: right">5/2016 – 6/2017</span>
+**[Escalon Business Services](https://escalon.services/)**  
+**Senior Software Engineer**
+
+- Developed full-stack applications using **React.js** on frontend with **Node.js** backend services
+- Implemented modular components using **React.js** with strong focus on reusability
+- Built RESTful APIs and backend services using **Node.js**
+- Worked with **Symfony Framework** for specific backend requirements
+- Collaborated with product teams to deliver scalable and maintainable solutions
+
+---
+
+<span style="float: right">9/2014 – 4/2016</span>
+**[Affililed](https://www.affilired.com/en/)**  
+**Software Engineer**
+
+- Designed and implemented **RESTful APIs** following industry best practices
+- Developed backend services using **PHP** with custom frameworks and **Node.js**
+- Managed database optimization and queries for **PostgreSQL** and **MySQL**
+- Built responsive frontend components using **JavaScript**
+- Contributed to architectural decisions for cross-functional features
+
+---
+
+<span style="float: right">7/2013 – 9/2014</span>
+**[Trigma](https://trigma.com/)**  
+**Software Engineer**
+
+- Developed full-stack applications using **PHP** with frameworks like **CakePHP** and **CodeIgniter**
+- Designed and implemented **RESTful APIs** for backend services
+- Optimized **MySQL** database queries and schema design
+- Built responsive user interfaces with **JavaScript**
+- Participated in code reviews and contributed to coding standards
+
+---
+
 ## AI / GenAI Architecture Readiness
 
 - Designed AI-support platforms for model training and annotation workflows
