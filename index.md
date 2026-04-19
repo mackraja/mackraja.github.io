@@ -24,7 +24,7 @@ Strong product mindset with ownership of architecture decisions, engineering sta
 
 ---
 
-### _Latest Professional Experience_ (Across the Last Three Organizations)
+### _Professional Experience_ 
 ---
 
 <span style="float: right">2/2022 – Present</span>
