@@ -3,9 +3,9 @@ layout: default
 title: Monty Khanna
 ---
 # Lead / Principal Full Stack Architect
-**13+ years** of experience architecting and delivering scalable, high-performance, cloud-native applications across fintech, enterprise platforms, and AI-enabled systems.
+14 years of experience architecting and delivering scalable, high-performance, cloud-native applications across fintech, enterprise platforms, and AI-enabled systems.
 
-Specialized in **system architecture, microservices design, distributed systems, React ecosystem, Node.js/NestJS backends, and cloud-native engineering (AWS/Azure/GCP)**.
+Specialized in **system architecture, microservices design, distributed systems, React ecosystem, Node.js/NestJS backends, Python, and cloud-native engineering (AWS/Azure)**.
 
 Strong product mindset with ownership of architecture decisions, engineering standards, performance optimization, and long-term scalability. Experienced in mentoring teams, defining technical strategy, and aligning engineering solutions with business goals.
 
