@@ -2,10 +2,10 @@
 layout: default
 title: Monty Khanna
 ---
-# Lead / Principal Full Stack Architect
+# Lead / Principal Full Stack Engineer
 14 years of experience architecting and delivering scalable, high-performance, cloud-native applications across fintech, enterprise platforms, and AI-enabled systems.
 
-Specialized in **system architecture, microservices design, distributed systems, React ecosystem, Node.js/NestJS backends, Python, and cloud-native engineering (AWS/Azure)**.
+Specialized in **software architecture, microservices design, React ecosystem, Node.js/NestJS backends, Python, and cloud-native engineering (AWS/Azure)**.
 
 Strong product mindset with ownership of architecture decisions, engineering standards, performance optimization, and long-term scalability. Experienced in mentoring teams, defining technical strategy, and aligning engineering solutions with business goals.
 
@@ -29,7 +29,7 @@ Strong product mindset with ownership of architecture decisions, engineering sta
 
 <span style="float: right">2/2022 – Present</span>
 **[IBM](https://www.ibm.com/in-en) India Pvt Ltd**  
-**Lead System Architect / Senior System Analyst**
+**Lead Full Stack Developer - Team Lead**
 
 ### Toyota (Enterprise Data Platform)
 
@@ -59,7 +59,7 @@ Strong product mindset with ownership of architecture decisions, engineering sta
 
 <span style="float: right">12/2019 – 2/2022</span>
 **[Technossus](https://www.technossus.com/) Software Services Pvt Ltd**  
-**Lead Consultant – Full Stack Architect**
+**Consultant – Full Stack Developer**
 
 - Architected a cross-platform AI data labeling platform supporting ML model training workflows
 - Designed Electron-based desktop architecture integrated with scalable Node.js backend services
@@ -73,7 +73,7 @@ Strong product mindset with ownership of architecture decisions, engineering sta
 
 <span style="float: right">6/2017 – 12/2019</span>
 **[SimSaw](https://www.simsaw.com/) Software Pvt Ltd**  
-**Senior Software Engineer → Technical Lead**
+**Senior Software Engineer**
 
 - Designed scalable RESTful services using **Hapi.js and Sequelize ORM**
 - Developed modular frontend systems using **React, Angular, TypeScript**
